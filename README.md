@@ -29,6 +29,7 @@ This project demonstrates CRUD operations, RESTful routing, form handling, and s
 ---
 
 ## 📁 Project Structure
+```bash
 Mongo3/
 │
 ├── models/
@@ -47,7 +48,7 @@ Mongo3/
 └── README.md
 
 
----
+```
 
 ## ⚙️ Installation & Setup
 
